@@ -13,3 +13,4 @@ def longest_common_prefix(strs):
                 return shortest[:i]
 
     return shortest
+
