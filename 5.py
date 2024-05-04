@@ -5,3 +5,4 @@ for i in range(2, n):
     a = b
     b = c
 print(f'Ваше число: {c}')
+#O(n)
