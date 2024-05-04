@@ -29,4 +29,5 @@ def roman_to_int(s):
     return result
 n = input('Введите римскую цифру(число): ')
 print(roman_to_int(n))
-#O(1)
+
+#O(n)
