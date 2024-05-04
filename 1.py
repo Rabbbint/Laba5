@@ -14,3 +14,4 @@ def longest_common_prefix(strs):
 
     return shortest
 
+#O(n)

@@ -6,3 +6,4 @@ for i in range(len(s)-1):
     else:
         ans = True
 print(ans)
+#O(k * n log n)
